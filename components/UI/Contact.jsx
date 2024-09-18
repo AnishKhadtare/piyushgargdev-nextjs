@@ -82,9 +82,9 @@ const Contact = () => {
                 aria-label="Twitter Account"
                 href="https://twitter.com/piyushgarg_dev"
                 target="_blank"
-                className="duration-300" // Animation duration
+                className="duration-300"
               >
-                <NewTwitterLogo className="fill-[#ffffff] hover:fill-[#01d293]" /> {/* Twitter blue default with green hover */}
+                <NewTwitterLogo className="fill-[#ffffff] hover:fill-[#01d293]" />
               </Link>
               <Link
                 className="hover:text-[#01d293] duration-300"
